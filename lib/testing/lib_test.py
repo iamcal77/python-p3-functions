@@ -64,4 +64,5 @@ class TestHalve:
 
     def test_halve_float(self):
         '''halves float input'''
+
         assert(halve(99.0) == 49.5)
